@@ -1,0 +1,25 @@
+.font {
+    font-size: 25px;
+    font-family: 'Concert One', cursive;
+}
+
+.tc {
+    color: aliceblue;
+}
+
+.r {
+    width: 16em;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.bg-r {
+    border-radius: 10%;
+}
+
+.size {
+    margin-left: auto;
+    margin-right: auto;
+}
